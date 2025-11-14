@@ -1,0 +1,3 @@
+C:/Git/school123/LABB2/build/CMakeFiles/LABB2.dir
+C:/Git/school123/LABB2/build/CMakeFiles/ALL_BUILD.dir
+C:/Git/school123/LABB2/build/CMakeFiles/ZERO_CHECK.dir

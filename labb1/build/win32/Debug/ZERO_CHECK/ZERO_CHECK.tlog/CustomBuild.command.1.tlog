@@ -1,0 +1,10 @@
+^C:\GIT\SCHOOL123\LABB1\BUILD\CMAKEFILES\29AE59C0234D7D23D0B116C99EE06F60\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Git/school123/labb1 -BC:/Git/school123/labb1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Git/school123/labb1/build/labb1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

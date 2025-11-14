@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Git\school123\labb 8\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Git\uni\labb 8\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Git\school123\labb 8\build\Debug\labb8.exe</FullPath>
+      <FullPath>C:\Git\uni\labb 8\build\Debug\labb8.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

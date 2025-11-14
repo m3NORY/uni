@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Git\school123\labb 8\main.cpp">
+    <ClCompile Include="C:\Git\uni\labb 8\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Git\school123\labb 8\sport_res.cpp">
+    <ClCompile Include="C:\Git\uni\labb 8\sport_res.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Git\school123\labb 8\CMakeLists.txt" />
+    <CustomBuild Include="C:\Git\uni\labb 8\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{A380C68B-AAC4-3C60-AC44-8A5554976363}</UniqueIdentifier>
+      <UniqueIdentifier>{989BD02E-DCE7-3572-992E-684075C268F6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

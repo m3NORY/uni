@@ -1,6 +1,6 @@
-^C:\GIT\SCHOOL123\LABB 8\BUILD\CMAKEFILES\39B5BBBDE6D1390B83154063B737EC10\GENERATE.STAMP.RULE
+^C:\GIT\UNI\LABB 8\BUILD\CMAKEFILES\25B6DD79B568A5F7BBFB7213EFCE73C1\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Git/school123/labb 8" "-BC:/Git/school123/labb 8/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Git/school123/labb 8/build/labb8.sln"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Git/uni/labb 8" "-BC:/Git/uni/labb 8/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Git/uni/labb 8/build/labb8.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

@@ -1,6 +1,6 @@
-^C:\GIT\SCHOOL123\LABB 8\CMAKELISTS.TXT
+^C:\GIT\UNI\LABB 8\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Git/school123/labb 8" "-BC:/Git/school123/labb 8/build" --check-stamp-file "C:/Git/school123/labb 8/build/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Git/uni/labb 8" "-BC:/Git/uni/labb 8/build" --check-stamp-file "C:/Git/uni/labb 8/build/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

@@ -1,0 +1,3 @@
+C:/Git/uni/labb 9/build/CMakeFiles/OrderList.dir
+C:/Git/uni/labb 9/build/CMakeFiles/ALL_BUILD.dir
+C:/Git/uni/labb 9/build/CMakeFiles/ZERO_CHECK.dir

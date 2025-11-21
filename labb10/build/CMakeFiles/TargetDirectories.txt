@@ -1,0 +1,3 @@
+C:/Git/uni/labb10/build/CMakeFiles/number.dir
+C:/Git/uni/labb10/build/CMakeFiles/ALL_BUILD.dir
+C:/Git/uni/labb10/build/CMakeFiles/ZERO_CHECK.dir

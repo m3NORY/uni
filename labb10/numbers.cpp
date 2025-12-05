@@ -80,9 +80,8 @@ namespace Roman {
         return arabicToRoman(sum);
     }
 
-    // 5. Найти наибольшее римское число
     std::string findLargest(const std::string romans[], int count) {
-        if (count <= 0) return "ERROR: Пустой массив";
+        if (count <= 0) return "Пустой массив";
         
         std::string largest = romans[0];
         int maxValue = romanToArabic(romans[0]);

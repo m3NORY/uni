@@ -29,7 +29,7 @@
 					[
 						0
 					],
-					"name" : "labb8",
+					"name" : "labb12",
 					"targetIndexes" : 
 					[
 						0,
@@ -43,22 +43,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-c7487d597c1ffd041ee4.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-c26898b13d5274cbb6b7.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Debug-dff3b3969f1051b0596e.json",
+					"jsonFile" : "target-ZERO_CHECK-Debug-e5e585a6d621595b48fd.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "labb8::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-labb8-Debug-1c3a6a4321dc9f2967df.json",
-					"name" : "labb8",
+					"id" : "labb12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-labb12-Debug-fcb1a6fbf8a6c01884d2.json",
+					"name" : "labb12",
 					"projectIndex" : 0
 				}
 			]
@@ -91,7 +91,7 @@
 					[
 						0
 					],
-					"name" : "labb8",
+					"name" : "labb12",
 					"targetIndexes" : 
 					[
 						0,
@@ -105,22 +105,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-c7487d597c1ffd041ee4.json",
+					"jsonFile" : "target-ALL_BUILD-Release-c26898b13d5274cbb6b7.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Release-dff3b3969f1051b0596e.json",
+					"jsonFile" : "target-ZERO_CHECK-Release-e5e585a6d621595b48fd.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "labb8::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-labb8-Release-6d9835af1ad7a8a65a23.json",
-					"name" : "labb8",
+					"id" : "labb12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-labb12-Release-2fefe714ebe3d25fb675.json",
+					"name" : "labb12",
 					"projectIndex" : 0
 				}
 			]
@@ -153,7 +153,7 @@
 					[
 						0
 					],
-					"name" : "labb8",
+					"name" : "labb12",
 					"targetIndexes" : 
 					[
 						0,
@@ -167,22 +167,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-c7487d597c1ffd041ee4.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-c26898b13d5274cbb6b7.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-dff3b3969f1051b0596e.json",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-e5e585a6d621595b48fd.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "labb8::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-labb8-MinSizeRel-33a53c8b24d57531acae.json",
-					"name" : "labb8",
+					"id" : "labb12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-labb12-MinSizeRel-00e8e962625005de0a57.json",
+					"name" : "labb12",
 					"projectIndex" : 0
 				}
 			]
@@ -215,7 +215,7 @@
 					[
 						0
 					],
-					"name" : "labb8",
+					"name" : "labb12",
 					"targetIndexes" : 
 					[
 						0,
@@ -229,22 +229,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-c7487d597c1ffd041ee4.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-c26898b13d5274cbb6b7.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-dff3b3969f1051b0596e.json",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-e5e585a6d621595b48fd.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "labb8::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-labb8-RelWithDebInfo-26629e499ad2b9b9c69a.json",
-					"name" : "labb8",
+					"id" : "labb12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-labb12-RelWithDebInfo-55470946e2fd9092374d.json",
+					"name" : "labb12",
 					"projectIndex" : 0
 				}
 			]
@@ -253,8 +253,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Git/uni/labb 11/build",
-		"source" : "C:/Git/uni/labb 11"
+		"build" : "C:/Git/uni/labb 12/build",
+		"source" : "C:/Git/uni/labb 12"
 	},
 	"version" : 
 	{

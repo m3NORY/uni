@@ -1,3 +1,0 @@
-C:/Git/uni/labb 12/build/CMakeFiles/labb12.dir
-C:/Git/uni/labb 12/build/CMakeFiles/ALL_BUILD.dir
-C:/Git/uni/labb 12/build/CMakeFiles/ZERO_CHECK.dir

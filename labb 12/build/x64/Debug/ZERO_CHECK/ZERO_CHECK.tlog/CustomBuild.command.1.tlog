@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ^C:\GIT\UNI\LABB 12\BUILD\CMAKEFILES\F099EC8BAB95E6B0300D0EEC7BA2C3AE\GENERATE.STAMP.RULE
 setlocal
 "C:\Program Files\CMake\bin\cmake.exe" "-SC:/Git/uni/labb 12" "-BC:/Git/uni/labb 12/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Git/uni/labb 12/build/labb12.sln"
@@ -8,3 +9,15 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
+=======
+^C:\GIT\UNI\LABB 12\BUILD\CMAKEFILES\F099EC8BAB95E6B0300D0EEC7BA2C3AE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Git/uni/labb 12" "-BC:/Git/uni/labb 12/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Git/uni/labb 12/build/labb12.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+>>>>>>> c80aa90975c9b50af681f9ce588591857b92b359

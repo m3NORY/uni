@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:
 Debug|x64|C:\Git\uni\labb 12\build\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:
+Debug|x64|C:\Git\uni\labb 12\build\|
+>>>>>>> c80aa90975c9b50af681f9ce588591857b92b359

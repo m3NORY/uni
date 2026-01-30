@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ^C:\GIT\UNI\LABB 12\CMAKELISTS.TXT
 setlocal
 "C:\Program Files\CMake\bin\cmake.exe" "-SC:/Git/uni/labb 12" "-BC:/Git/uni/labb 12/build" --check-stamp-file "C:/Git/uni/labb 12/build/CMakeFiles/generate.stamp"
@@ -8,3 +9,15 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
+=======
+^C:\GIT\UNI\LABB 12\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Git/uni/labb 12" "-BC:/Git/uni/labb 12/build" --check-stamp-file "C:/Git/uni/labb 12/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+>>>>>>> c80aa90975c9b50af681f9ce588591857b92b359

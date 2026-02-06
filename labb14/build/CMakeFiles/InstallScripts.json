@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Git/uni/labb14/build/cmake_install.cmake",
+		"C:/Git/uni/labb14/build/StatsLib/cmake_install.cmake",
+		"C:/Git/uni/labb14/build/App/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

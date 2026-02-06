@@ -1,0 +1,4 @@
+C:/Git/uni/labb14/build/CMakeFiles/ALL_BUILD.dir
+C:/Git/uni/labb14/build/CMakeFiles/ZERO_CHECK.dir
+C:/Git/uni/labb14/build/StatsLib/CMakeFiles/StatsLib.dir
+C:/Git/uni/labb14/build/App/CMakeFiles/StatsApp.dir
